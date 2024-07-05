@@ -1,0 +1,33 @@
+.bgMain {
+  background-image: url("../../src/assets/images/bg_main.png");
+  background-attachment: fixed;
+}
+
+.sideBarCard {
+  background: linear-gradient(
+    218deg,
+    rgba(239, 218, 28, 0.6) 0%,
+    rgba(0, 240, 255, 0.6) 100%
+  );
+  border: 1px solid transparent;
+  border-image: linear-gradient(
+    218deg,
+    rgba(239, 218, 28, 0.6) 0%,
+    rgba(0, 240, 255, 0.6) 100%
+  );
+  border-radius: 20px 0;
+}
+
+.primiyerCard {
+  background: linear-gradient(218deg, #fbff006d 0%, #00eeff84 100%);
+}
+
+.online {
+  border: 2px solid transparent;
+  border-image: linear-gradient(
+    218deg,
+    rgba(239, 218, 28, 0.6) 20%,
+    rgba(0, 240, 255, 0.6) 100%
+  );
+  border-radius: 20px 0;
+}

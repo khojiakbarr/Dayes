@@ -1,0 +1,18 @@
+.borderColor {
+  border: 1px solid #00f0ff;
+  color: #00f0ff;
+}
+
+.KinoCard {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  background: linear-gradient(218deg, #faff00 0%, #00f0ff 100%);
+}
+
+.KinoText {
+  font-weight: 500;
+  font-size: 35px;
+  background: linear-gradient(218deg, #faff00 49%, #00f0ff 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
